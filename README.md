@@ -8,29 +8,29 @@ Install dependencies using npm.
 
 Installation
 
-npm install
+      npm install
 
 Running the Development Server
 
-npm run dev
+    npm run dev
 
 This will start the development server and open the project in your browser.
 
 Building for Production
 
-npm run build
+    npm run build
 
 This will generate an optimized production build.
 
 Previewing the Production Build
 
-npm run preview
+    npm run preview
 
 This allows you to preview the production build locally.
 
 Linting the Code
 
-npm run lint
+     npm run lint
 
 Checks the code for linting errors and ensures best practices are followed.
 
